@@ -5,7 +5,6 @@
 using namespace cv;
 using namespace std;
 
-
 void demo1()
 {
 	//‘ÿ»ÎÕº∆¨
@@ -102,7 +101,7 @@ void demo()
 	//demo3();
 	//demo4();
 	//demo5();
-	//demo6();
+	demo6();
 	//demo7();
-	demo8();
+	//demo8();
 }
